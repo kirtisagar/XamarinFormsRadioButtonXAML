@@ -12,7 +12,7 @@ using XFormsRadioButton.iOS.Controls;
 namespace XFormsRadioButton.iOS.Controls
 {
     /// <summary>
-    /// The check box renderer for iOS.
+    /// The Radio button renderer for iOS.
     /// </summary>
     public class RadioButtonRenderer : ViewRenderer<CustomRadioButton, RadioButtonView>
     {
