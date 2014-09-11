@@ -11,7 +11,7 @@ it is an extension to (https://github.com/XForms/Xamarin-Forms-Labs)
 ![Demo] (https://raw.githubusercontent.com/kirtisagar/XamarinFormsRadioButtonXAML/master/2014-09-09-17-10-52.png)
 
 ###Radio Group in iOS
-![Demo] ()
+![Demo] (https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtoniOS.jpg)
 
 ###Radio Group in Windows Phone (Coming soon..)
 
@@ -30,7 +30,8 @@ Render your control:
            <custom:BindableRadioGroup x:Name="MyRadiouGroup" 
              ItemsSource="{Binding Path=MyList.Values}" 
              SelectedIndex="{Binding SelectedIndex}" VerticalOptions="Start" />
-             
+
+To suscribe for Radio Button Checked event, follow this code.              
 Code behing of Xaml: 
 
              MyRadiouGroup.CheckedChanged += MyRadiouGroup_CheckedChanged;	
@@ -66,4 +67,6 @@ Code behing of Xaml:
                   MyList.Add(i, "Item " + i); 
                 }
               }
+
               
+If you are stuck, let me know - [@kirtisagar](http://twitter.com/Kirtisagar)
