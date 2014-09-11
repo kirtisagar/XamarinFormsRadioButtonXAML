@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4d001f84b8fea0cb" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFormsRadioButton\XFormsRadioButton\Pages\RadioGroupDemo.xaml.cs">
+    <Files>
+      <File FileName="XFormsRadioButton\XFormsRadioButton\ViewModel\RadioGroupDemoViewModel.cs" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton\XFormsRadioButton\Pages\RadioGroupDemo.xaml" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton\XFormsRadioButton\Pages\RadioGroupDemo.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton\XFormsRadioButton\CustomControls\BindableRadioGroup.cs" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton\XFormsRadioButton\CustomControls\CustomRadioButton.cs" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton\XFormsRadioButton.Android\Renderer\RadioButtonRenderer.cs" Line="25" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Kirti\Xamarin\XFormsRadioButton\XFormsRadioButton\XFormsRadioButton\ViewModel\RadioGroupDemoViewModel.cs" line="16" column="16" />
+      <Breakpoint file="D:\Kirti\Xamarin\XFormsRadioButton\XFormsRadioButton\XFormsRadioButton\CustomControls\BindableRadioGroup.cs" line="4" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
