@@ -8,7 +8,7 @@ This Sample demonstrated using MVVM design pattern.
 it is an extension to (https://github.com/XForms/Xamarin-Forms-Labs)
 
 ###Radio Group in Android
-![Demo] (https://raw.githubusercontent.com/kirtisagar/XamarinFormsRadioButtonXAML/master/2014-09-09-17-10-52.png)
+![Demo] (https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtonAndroid.png)
 
 ###Radio Group in iOS
 ![Demo] (https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtoniOS.jpg)
