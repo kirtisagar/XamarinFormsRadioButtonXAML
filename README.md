@@ -3,7 +3,7 @@ XamarinFormsRadioButtonXAML
 
 Radio button and Radio Group for Xamarin.Forms just works like [Picker](http://iosapi.xamarin.com/?link=T%3aXamarin.Forms.Picker)  and it is bindable in XAML. 
 
-This Sample demostrated using MVVM design pattern. 
+This Sample demonstrated using MVVM design pattern. 
 
 it is an extension to (https://github.com/XForms/Xamarin-Forms-Labs)
 
@@ -31,8 +31,8 @@ Render your control:
              ItemsSource="{Binding Path=MyList.Values}" 
              SelectedIndex="{Binding SelectedIndex}" VerticalOptions="Start" />
 
-To suscribe for Radio Button Checked event, follow this code.              
-Code behing of Xaml: 
+To subscribe for Radio Button Checked event, follow this code.              
+Code behind of Xaml: 
 
              MyRadiouGroup.CheckedChanged += MyRadiouGroup_CheckedChanged;	
              
