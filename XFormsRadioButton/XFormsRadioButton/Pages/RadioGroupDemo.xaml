@@ -16,8 +16,12 @@
 
     <Label Text="Selected Item is:" VerticalOptions="Center" HorizontalOptions="Center" />
     <Label x:Name="txtSelected" Text="" VerticalOptions="Center" HorizontalOptions="Center" />
-    
+    <StackLayout Orientation="Horizontal">
+    <Label Text="Select The Index" VerticalOptions="Center" HorizontalOptions="Center" />
+   <Entry Text="{Binding SelectedIndex}"  VerticalOptions="Center" HorizontalOptions="Center" />
+
   </StackLayout>
-  
+  </StackLayout>
+
   
 </ContentPage>
