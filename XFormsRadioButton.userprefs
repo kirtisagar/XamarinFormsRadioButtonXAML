@@ -1,4 +1,4 @@
-﻿<Properties>
+﻿<Properties StartupItem="XFormsRadioButton/XFormsRadioButton.Android/XFormsRadioButton.Android.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_15" />
   <MonoDevelop.Ide.Workbench ActiveDocument="XFormsRadioButton\XFormsRadioButton\Pages\RadioGroupDemo.xaml">
     <Files>
