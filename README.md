@@ -33,8 +33,7 @@ Render your control:
   SelectedIndex="{Binding SelectedIndex}" VerticalOptions="Start" />
 ```
 
-To subscribe for Radio Button Checked event, follow this code.              
-Code behind of Xaml: 
+To subscribe for Radio Button Checked event, follow this code. Code behind of Xaml: 
 
 ```csharp
   MyRadiouGroup.CheckedChanged += MyRadiouGroup_CheckedChanged;	
@@ -51,7 +50,7 @@ Code behind of Xaml:
   }
  ```
  
- In The ViewModel, you need to provide the ItemSource as Dictionary of type <int, string>, Ex. Dictionary<int, string>();
+ In The ViewModel, you need to provide the ItemSource as Dictionary of type `<int, string>, Ex. Dictionary<int, string>()`;
  
  ```csharp
  private Dictionary<int, string> myList;
