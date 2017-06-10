@@ -7,14 +7,14 @@ This Sample demonstrated using MVVM design pattern.
 
 it is an extension to (https://github.com/XForms/Xamarin-Forms-Labs)
 
-###Radio Group in Android
-![Demo] (https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtonAndroid.png)
+### Radio Group in Android
+![DemoAndroid](https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtonAndroid.png)
 
-###Radio Group in iOS
-![Demo] (https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtoniOS.jpg)
+### Radio Group in iOS
+![DemoIOS](https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtoniOS.jpg)
 
-###Radio Group in Windows Phone 
-![Demo] (https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtonWindowsPhone.png)
+### Radio Group in Windows Phone 
+![DemoWinPhone](https://github.com/kirtisagar/XamarinFormsRadioButtonXAML/blob/master/RadioButtonWindowsPhone.png)
 
 
 #### Super easy to use. 
@@ -64,7 +64,7 @@ Code behind of Xaml:
              {
                for (int i = 0; i < 3; i++)
                 {
-                  MyList.Add(i, "Item " + i); 
+                  MyList.Add(i, $"Item {i}"); 
                 }
               }
 
